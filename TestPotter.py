@@ -1,6 +1,6 @@
 import unittest
 
-from Basket import price
+from price import price
 
 
 class TestPrice(unittest.TestCase):
